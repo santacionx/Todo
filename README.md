@@ -17,7 +17,7 @@ Here are some screenshots of the TODO app in action:
 
 ### Task List Screen
 
-![H o m e](../screenshots/1.jpeg)
+![H o m e](./screenshots/1.jpeg)
 
 ### Adding a Task
 
