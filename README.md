@@ -21,14 +21,14 @@ Here are some screenshots of the TODO app in action:
 
 ### Adding a Task
 
-![A D D_T A S K](../screenshots/2.jpeg)
+![A D D_T A S K](./screenshots/2.jpeg)
 
 ### Task Details
 
-![Task Details](../screenshots/3.jpeg)
+![Task Details](./screenshots/3.jpeg)
 
 ### app icon
-![I C O N](../screenshots/5.jpeg)
+![I C O N](./screenshots/5.jpeg)
 
 
 ## Features
